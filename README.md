@@ -1,0 +1,2 @@
+# Crud
+django crud project
